@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+
+.rollButton {
+  width: 200px;
+  height: 40px;
+  border-radius: 8px;
+  border: none;
+  box-shadow:2px 2px 8px 1px rgb(100, 98, 98) ;
+  cursor: pointer;
+  margin: 40px auto;
+  font-size: 25px;
+  cursor: pointer;
+   font-family: "Bangers", system-ui;
+   display: block;
+}
+
+.rollButton:hover{
+  filter: brightness(0.8);
+}

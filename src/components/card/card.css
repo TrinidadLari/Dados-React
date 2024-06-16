@@ -1,0 +1,61 @@
+.boxCards{
+ border: 6px solid aliceblue;
+ border-radius: 10px ;
+ padding-block: 100px;
+ margin-inline: 20%;
+
+}
+
+h2{
+  color: rgb(0, 0, 0);
+  background-color: aliceblue;
+}
+
+.cardOne__container{
+  background-color: rgb(168, 169, 171);
+  border-radius: 10px;
+  box-shadow: 2px 2px 8px 1px rgb(231, 229, 229);
+  width: 300px;
+  margin: auto;
+  padding-bottom: 10px;
+}
+
+.cardOne__container * {
+  margin-bottom: 20px;
+
+}
+
+.cardOne__img{
+  width: 100%;
+  object-fit: cover;
+  /* border-top-left-radius: 10px;
+  border-top-right-radius: 10px; */
+}
+
+.carOne__button{
+  display: inline-block;
+  width: 100px;
+  height: 20px;
+  border-radius: 8px;
+  border: none;
+  box-shadow:2px 2px 8px 1px rgb(100, 98, 98) ;
+  cursor: pointer;
+  text-decoration: none;
+  color: black;
+  background-color: aliceblue;
+}
+
+
+.carOne__button:hover{
+  filter: brightness(0.8);
+}
+
+.cardOne__header{
+  margin-block: 20px;
+  color: aliceblue;
+}
+
+.card__header{
+  padding-top: 20px;
+}
+

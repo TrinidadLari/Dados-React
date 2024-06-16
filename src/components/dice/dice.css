@@ -1,0 +1,11 @@
+.diceDiv{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  background-color: aliceblue;
+  font-size: 40px;
+  width: 60px;
+  margin: 20px auto;
+  border-radius: 8px;
+}

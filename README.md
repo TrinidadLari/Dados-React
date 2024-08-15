@@ -1,8 +1,10 @@
-# React + Vite
+# Dados con React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto fue realizado con la finalidad de practicar y dar mis primeros pasos con React, manejando los estilos con CSS puro.
 
-Currently, two official plugins are available:
+Se trata de un juegos de dados para facilitar la elección del menú en aquellos días que no se nos ocurre qué cocinar... Bindandote también el link a la receta 🍝
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![App dados](./src/assets/app.png "Home App dados")
+
+Este juego de dados es propiedad de Trinidad Lari y está bajo su nombre. Todos los derechos reservados.
+[App dados][https://github.com/TrinidadLari/Dados-React]
